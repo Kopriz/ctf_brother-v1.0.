@@ -11,9 +11,11 @@ Application aimed at helping newcomers to ctf ,this my first programs
 
 We plan to update the application and improve it
 Assistance in application development
+
+
 Donate:
-  usdt:TPk6937yEnXjcwzsjMkmyoh8n4Tac4Z16r
-  bitcoin:bc1q7dkuf5xhzqz49fkvrtee0a6gq9vfslyrsxjjgg
+usdt:TPk6937yEnXjcwzsjMkmyoh8n4Tac4Z16r
+bitcoin:bc1q7dkuf5xhzqz49fkvrtee0a6gq9vfslyrsxjjgg
 
 I will be very grateful for any help!
 
